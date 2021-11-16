@@ -90,6 +90,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-singh19&show_icons=true&locale=en&layout=compact" alt="Rohit-singh19" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-singh19&show_icons=true&locale=en" alt="Rohit-singh19" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-singh19&" alt="Rohit-singh19" /></p>
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
