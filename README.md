@@ -88,6 +88,9 @@
 
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-singh19&show_icons=true&locale=en&layout=compact" alt="Rohit-singh19" /></p>
+
+
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
 [python]: https://python.org
