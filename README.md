@@ -12,7 +12,6 @@
 - 🔭 I'm currently working on **Movie App using React js.**
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on Node js based project.
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I do standup Comedy.
 
 ### Connect with me:
